@@ -1,13 +1,8 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ryana3112/<assets>/main/assets/banner.png" alt="Banner" />
-</p>
-
-
 
 
 <h1 align="center">Hi 👋, I'm Aryan Sharma</h1>
-<h3 align="center">🚀 Full Stack Developer | Java Enthusiast | MERN Stack Explorer</h3>
+<h3 align="center">🚀 Full Stack Developer | Java Enthusiast | MERN Stack</h3>
 
 <p align="center">
   <a href="https://github.com/ryana3112?tab=followers">
@@ -43,7 +38,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/aryant09sy" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="40" />
   </a>
 </p>
 
