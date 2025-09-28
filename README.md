@@ -4,16 +4,27 @@
 <h3 align="center">🚀 Full Stack Developer | Java Enthusiast | MERN Stack</h3>
 
 <p align="center">
+<p align="center">
   <a href="https://github.com/ryana3112?tab=followers">
     <img src="https://img.shields.io/github/followers/ryana3112?label=Followers&style=for-the-badge&logo=github&color=0e75b6" />
   </a>
-  <a href="mailto:aryan.theceo@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Me-blue?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://aryan-portfolio03.lovable.app/" target="_blank">
+
+  <!-- Email Badge -->
+ <!-- Email Badge -->
+
+
+
+  <a href="https://aryan-portfolio03.lovable.app/">
     <img src="https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge&logo=vercel" />
   </a>
 </p>
+
+<!-- Backup Plain Email -->
+<p align="center">
+  📧 <strong>Email me directly:</strong>  
+  <a href="mailto:aryan.theceo@gmail.com">aryan.theceo@gmail.com</a>
+</p>
+
 
 ---
 
