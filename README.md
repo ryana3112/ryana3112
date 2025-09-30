@@ -4,15 +4,9 @@
 <h3 align="center">🚀 Full Stack Developer | Java Enthusiast | MERN Stack</h3>
 
 <p align="center">
-<p align="center">
   <a href="https://github.com/ryana3112?tab=followers">
     <img src="https://img.shields.io/github/followers/ryana3112?label=Followers&style=for-the-badge&logo=github&color=0e75b6" />
   </a>
-
-  <!-- Email Badge -->
- <!-- Email Badge -->
-
-
 
   <a href="https://aryan-portfolio03.lovable.app/">
     <img src="https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge&logo=vercel" />
@@ -73,15 +67,22 @@
 
 ---
 
-### 📊 GitHub Stats  
+### 📈 GitHub Activity Graph
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryana3112&show_icons=true&theme=radical" alt="Aryan Sharma GitHub stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryana3112&theme=react-dark&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryana3112&theme=radical" alt="Aryan Sharma GitHub streak" />
-</p>
 
+---
+
+### 📊 Most Used Languages  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryana3112&show_icons=true&locale=en&layout=compact&theme=radical" alt="Aryan Sharma Languages" />
+</p>
+
+---
+
+### 🎨 Dev Quote of the Day  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
