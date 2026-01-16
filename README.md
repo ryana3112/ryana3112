@@ -26,7 +26,7 @@
 - 🔭 Currently building: **[Employee Management System](https://github.com/ryana3112/EmployeeManagementSystem)**  
 - 🌱 Learning: **Next.js, Express.js, MongoDB**  
 - 💬 Ask me about: **React, Java, SQL**  
-- 📄 Resume: [View Here](https://drive.google.com/file/d/1NMd0OwPW1L0ZeocWzhf6ymIBjalccMNm/view?usp=drive_link)  
+- 📄 Resume: [View Here]((https://drive.google.com/file/d/1kUC8RcUpTkxMZmuXbESAyRtNaURG8fRy/view?usp=sharing))  
 
 ---
 
