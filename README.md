@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/github/followers/ryana3112?label=Followers&style=for-the-badge&logo=github&color=0e75b6" />
   </a>
 
-  <a href="(https://aryan-portfolio-project.vercel.app/)">
+  <a href="https://aryan-portfolio-project.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge&logo=vercel" />
   </a>
 </p>
