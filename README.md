@@ -1,7 +1,7 @@
 <!-- Banner -->
 
 <h1 align="center">Hi 👋, I'm Aryan Sharma</h1>
-<h3 align="center">🚀 Full Stack Developer | Java Enthusiast | MERN Stack</h3>
+<h3 align="center">🚀 Aspiring Software Engineer | Java Enthusiast |SDEk</h3>
 
 <p align="center">
   <a href="https://github.com/ryana3112?tab=followers">
