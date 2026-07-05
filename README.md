@@ -26,7 +26,7 @@
 - 🔭 Currently building: **[Employee Management System](https://github.com/ryana3112/EmployeeManagementSystem)**  
 - 🌱 Learning: **JDBC & REST APIs**  
 - 💬 Ask me about: **React, Java, SQL**  
-📄 **Resume:** [View Here](https://drive.google.com/file/d/1YRgNuaZtbK3l0beF36oLgXTkX_Yf_laW/view?usp=sharing)
+📄 **Resume:** [View Here](https://drive.google.com/file/d/1JlDLiGWjOFw5hu3ofKSRBmyicKNUQNKg/view?usp=sharing)
 
 
 ---
